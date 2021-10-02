@@ -1,4 +1,4 @@
-# NMP_AV_Driverless_Simulation
+# AV_NMP_Webots_GroupProject
 ## Background
 The system design and code of an Autonomous Vehicle must be validated and tested before being uploaded onto the car. Thus a simulation software such as webots provides the perfect virtual environment to cheaply and safetly test code implementations.  
 
